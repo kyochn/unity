@@ -523,7 +523,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 8
-  moveabeleRange: 5.5
+  moveabeleRange: 6.5
   power: 1000
   cannonBall: {fileID: 4109603459597778615, guid: 3f2e17de50e89204bb442cfd53677074,
     type: 3}
